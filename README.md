@@ -1,4 +1,4 @@
-# ejerciciogit-0
+# ejerciciogit-0 repositorio 1 curso de git 
 ejerciciodeaprendergitcondalto
 
 ## descripcion 
